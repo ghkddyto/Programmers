@@ -2,7 +2,7 @@
 //예를 들어 s가 "a234"이면 False를 리턴하고 "1234"라면 True를 리턴하면 됩니다.
 
 public class level1_String{
-  public boolean solution(String s) {
+  static boolean solution(String s) {
           try{
           if(s.length()==4||s.length()==6){
               Integer.parseInt(s);   
