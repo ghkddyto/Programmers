@@ -10,7 +10,6 @@
 //4	11
 
 import java.util.Arrays;
-
 public class level1_yaksuhap {
     static String solution(int n) {
         String answer = "";
