@@ -1,3 +1,5 @@
+package me.yosae.solutions.level1;
+
 //https://programmers.co.kr/learn/courses/30/lessons/12916
 
 //. s에 'p'의 개수와 'y'의 개수를 비교해 같으면 True,

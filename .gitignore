@@ -1,26 +1,42 @@
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
 
-Programmers.iml
-out/production/Programmers/Test.class
-out/production/Programmers/level1_Sosu.class
-.idea/vcs.xml
+### IntelliJ IDEA ###
 .idea/modules.xml
-.idea/misc.xml
-src/Test.java
-out/production/Programmers/level1_sufoja.class
-out/production/Programmers/level1_KBunJaeSu.class
-out/production/Programmers/level1_Sejari.class
-out/production/Programmers/level1_Ponkemon.class
-out/production/Programmers/level1_Juldaekap.class
-out/production/Programmers/level1.Maraton
-out/production/Programmers/level1_CheYukBok.class
-out/production/Programmers/level1_Lotto.class
-.idea/.name
-out/production/Programmers/level1_add_matrix.class
-out/production/Programmers/level1_phone.class
-out/production/Programmers/level1_Square.class
-out/production/Programmers/level1_Xincrease.class
-out/production/Programmers/Test5.class
-out/production/Programmers/Test3.class
-out/production/Programmers/Test2.class
-out/production/Programmers/level1_Choose_n_increase.class
-out/production/Programmers/level1_CenterString.class
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
